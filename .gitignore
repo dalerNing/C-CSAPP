@@ -1,2 +1,4 @@
-/code/
-!/code/xshell
+/code/*
+!/code/xshell/*
+
+*.o
